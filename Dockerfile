@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER hchan@alauda.io
+MAINTAINER jliao@alauda.io
 
 RUN apt-get update && \
     apt-get install -y python-pip
